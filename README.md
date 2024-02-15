@@ -7,6 +7,6 @@
 ```
 pip install pyTelegramBotAPI
 ```
-## Лицензия.
+## Лицензия
 
 Этот репозиторий распространяется под [лицензией MIT](https://mit-license.org/).
